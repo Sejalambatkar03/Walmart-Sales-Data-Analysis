@@ -1,19 +1,15 @@
 # Walmart-Sales-Data-Analysis
-_____________________________________________________________________________________________________
+
 # About
-_____________________________________________________________________________________________________
 This project aims to explore the Walmart Sales data to understand top performing branches and products, sales trend of of different products, customer behaviour.
 
 # Purposes Of The Project
-_____________________________________________________________________________________________________
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
 # About Data
-______________________________________________________________________________________________________
 The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition. This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows
 
 # Analysis List
-______________________________________________________________________________________________________
 1.Product Analysis
 Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
 
@@ -24,7 +20,6 @@ This analysis aims to answer the question of the sales trends of product. The re
 This analysis aims to uncover the different customers segments, purchase trends and the profitability of each customer segment. 
 
 # Approach Used
-______________________________________________________________________________________________________
 # 1. Data Wrangling: 
 This is the first step where inspection of data is done to make sure NULL values and missing values are detected and data replacement methods are used to replace, missing or NULL values.
 Build a database
@@ -37,9 +32,7 @@ Add a new column named day_name that contains the extracted days of the week on 
 Add a new column named month_name that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of the year has the most sales and profit.
 # 3. Exploratory Data Analysis (EDA): 
 Exploratory data analysis is done to answer the listed questions and aims of this project.
-
-# Conclusion:
-______________________________________________________________________________________________________
+# 4.Conclusion:
 
 # Business Questions To Answer
 
